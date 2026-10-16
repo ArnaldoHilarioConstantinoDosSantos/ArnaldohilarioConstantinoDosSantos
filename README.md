@@ -71,7 +71,7 @@ Sou formado em **Ciência da Computação** (UNIFG) e, desde junho de 2024, atuo
 | 🏭 **Gestão de Fornecimento** | Entregas, contas a receber, estoque e resultado para fornecedores | Custo médio ponderado, DRE, fluxo de caixa, multiempresa | Next.js · Drizzle · PostgreSQL |
 | 🏠 **Ninho** | Orçamento e compras de quem está montando ou reformando um imóvel | RLS por papel, convites por link, tempo real | React · Supabase · TanStack Query |
 | 🛒 **Casa em Dia** | App Android de estoque da casa, lista de compras e preços | Funciona offline, fila com reenvio idempotente | React Native · Expo · Supabase |
-| 🐷 **Folga** | Finanças pessoais: faturas, parcelas e saldo projetado | Cálculos em funções puras cobertas por testes | React · Recharts · Vitest |
+| 🐷 **[Folga](https://github.com/ArnaldoHilarioConstantinoDosSantos/folga)** · [▶ demo](https://arnaldohilarioconstantinodossantos.github.io/folga/) | Finanças pessoais: faturas, parcelas e saldo projetado — **código aberto** | Cálculos em funções puras cobertas por testes | React · Recharts · Vitest |
 | 🌐 **Gold Defender** *(freelance)* | Site institucional de 13 páginas | **Nota 100 no Lighthouse**, SEO técnico | Astro · TypeScript · PHP |
 
 ## 💼 Experiência
